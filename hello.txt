@@ -11,6 +11,7 @@ hello,git,i am your master
 hello,git,i am your master  you can tell me?
 hello,git,i am your master
 hello,git,i am your master
+哈哈 乱码了吧
 hello,git,i am your master
 hello,git,i am your master
 太长了没意义！！！！ by 编译
