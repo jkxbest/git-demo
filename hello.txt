@@ -5,7 +5,7 @@ hello,git,i am your master
 hello,git,i am your master
 hello,git,i am your master
 hello,git,i am your master
-hello,git,i am your master
+hello,git,i am your master  hot-fix test
 hello,git,i am your master
 hello,git,i am your master
 hello,git,i am your master
