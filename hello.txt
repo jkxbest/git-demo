@@ -13,7 +13,7 @@ hello,git,i am your master
 hello,git,i am your master
 哈哈 乱码了吧
 hello,git,i am your master
-hello,git,i am your master
+hello
 太长了没意义！！！！ by 编译
 hello,git,i am your master
 dhello,git,i am your masterdkello,git,i am your master
